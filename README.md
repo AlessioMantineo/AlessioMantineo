@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alessio Mantineo</h1>
 <h3 align="center">Graduated in computer and electronic engineering</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://images.squarespace-cdn.com/content/v1/6138aa1b2dbe6165bd911df0/8559af34-a2e5-4c1a-9b10-972cdb1a0522/eufs_lidar.gif)">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/6138aa1b2dbe6165bd911df0/8559af34-a2e5-4c1a-9b10-972cdb1a0522/eufs_lidar.gif">
 
 - 💬 Ask me about **ROS, ABAP , ASSEMBLY**
 
