@@ -2,7 +2,7 @@
 <h3 align="center">Graduated in computer and electronic engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **ABAP , SAP , ASSEMBLY**
+- 💬 Ask me about **ROS, ABAP , ASSEMBLY**
 
 - 📫 How to reach me **alessio.mantineo.2000@gmail.com**
 
